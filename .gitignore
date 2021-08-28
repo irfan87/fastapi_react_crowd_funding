@@ -1,0 +1,8 @@
+.env
+.env.development
+.env.staging
+.env.production
+velup-io-service-key.json
+.DS-Store
+*.DS-Store
+.vscode
