@@ -2,6 +2,7 @@
 .env.development
 .env.staging
 .env.production
+cf_env
 velup-io-service-key.json
 .DS-Store
 *.DS-Store
